@@ -1,0 +1,357 @@
+Here is my sample output for the hashing lab. You can compare this to yours.
+
+--------------
+Index: 0
+Sum: 150
+Count: 3
+
+--------------
+Index: 1
+Sum: 151
+Count: 4
+
+--------------
+Index: 1
+Sum: 201
+Count: 1
+
+--------------
+Index: 2
+Sum: 152
+Count: 1
+
+--------------
+Index: 3
+Sum: 153
+Count: 2
+
+--------------
+Index: 4
+Sum: 204
+Count: 1
+
+--------------
+Index: 5
+Sum: 205
+Count: 2
+
+--------------
+Index: 5
+Sum: 155
+Count: 1
+
+--------------
+Index: 6
+Sum: 156
+Count: 3
+
+--------------
+Index: 6
+Sum: 206
+Count: 2
+
+--------------
+Index: 6
+Sum: 106
+Count: 1
+
+--------------
+Index: 7
+Sum: 207
+Count: 1
+
+--------------
+Index: 8
+Sum: 208
+Count: 2
+
+--------------
+Index: 8
+Sum: 158
+Count: 2
+
+--------------
+Index: 9
+Sum: 259
+Count: 1
+
+--------------
+Index: 9
+Sum: 159
+Count: 1
+
+--------------
+Index: 10
+Sum: 160
+Count: 2
+
+--------------
+Index: 11
+Sum: 211
+Count: 1
+
+--------------
+Index: 11
+Sum: 111
+Count: 1
+
+--------------
+Index: 12
+Sum: 212
+Count: 1
+
+--------------
+Index: 12
+Sum: 162
+Count: 2
+
+--------------
+Index: 13
+Sum: 113
+Count: 1
+
+--------------
+Index: 13
+Sum: 213
+Count: 1
+
+--------------
+Index: 13
+Sum: 63
+Count: 1
+
+--------------
+Index: 13
+Sum: 163
+Count: 1
+
+--------------
+Index: 14
+Sum: 114
+Count: 1
+
+--------------
+Index: 14
+Sum: 214
+Count: 2
+
+--------------
+Index: 14
+Sum: 164
+Count: 3
+
+--------------
+Index: 15
+Sum: 165
+Count: 1
+
+--------------
+Index: 16
+Sum: 216
+Count: 2
+
+--------------
+Index: 17
+Sum: 217
+Count: 1
+
+--------------
+Index: 19
+Sum: 169
+Count: 2
+
+--------------
+Index: 19
+Sum: 219
+Count: 1
+
+--------------
+Index: 20
+Sum: 170
+Count: 3
+
+--------------
+Index: 21
+Sum: 171
+Count: 1
+
+--------------
+Index: 22
+Sum: 122
+Count: 2
+
+--------------
+Index: 22
+Sum: 222
+Count: 2
+
+--------------
+Index: 23
+Sum: 173
+Count: 1
+
+--------------
+Index: 24
+Sum: 174
+Count: 1
+
+--------------
+Index: 25
+Sum: 175
+Count: 1
+
+--------------
+Index: 25
+Sum: 125
+Count: 1
+
+--------------
+Index: 26
+Sum: 176
+Count: 2
+
+--------------
+Index: 26
+Sum: 126
+Count: 1
+
+--------------
+Index: 27
+Sum: 177
+Count: 1
+
+--------------
+Index: 28
+Sum: 228
+Count: 1
+
+--------------
+Index: 28
+Sum: 128
+Count: 1
+
+--------------
+Index: 29
+Sum: 129
+Count: 1
+
+--------------
+Index: 31
+Sum: 181
+Count: 1
+
+--------------
+Index: 32
+Sum: 182
+Count: 1
+
+--------------
+Index: 33
+Sum: 83
+Count: 1
+
+--------------
+Index: 34
+Sum: 184
+Count: 2
+
+--------------
+Index: 34
+Sum: 234
+Count: 1
+
+--------------
+Index: 36
+Sum: 186
+Count: 1
+
+--------------
+Index: 36
+Sum: 86
+Count: 1
+
+--------------
+Index: 38
+Sum: 238
+Count: 1
+
+--------------
+Index: 38
+Sum: 138
+Count: 2
+
+--------------
+Index: 39
+Sum: 189
+Count: 1
+
+--------------
+Index: 39
+Sum: 139
+Count: 1
+
+--------------
+Index: 40
+Sum: 190
+Count: 1
+
+--------------
+Index: 41
+Sum: 291
+Count: 1
+
+--------------
+Index: 41
+Sum: 91
+Count: 1
+
+--------------
+Index: 41
+Sum: 241
+Count: 1
+
+--------------
+Index: 43
+Sum: 193
+Count: 1
+
+--------------
+Index: 44
+Sum: 194
+Count: 1
+
+--------------
+Index: 45
+Sum: 195
+Count: 3
+
+--------------
+Index: 45
+Sum: 145
+Count: 2
+
+--------------
+Index: 45
+Sum: 95
+Count: 1
+
+--------------
+Index: 47
+Sum: 147
+Count: 1
+
+--------------
+Index: 47
+Sum: 197
+Count: 1
+
+--------------
+Index: 49
+Sum: 199
+Count: 1
+
+--------------
+Index: 49
+Sum: 249
+Count: 1
+

@@ -1,0 +1,11 @@
+﻿  MyTreeNode.cpp
+C:\Users\Erics\Desktop\Spring 2021\CSci 115\BinarySearchTrees\MyTreeNodeTester\MyTreeNode.cpp(262,28): warning C4244: 'argument': conversion from 'MyTreeNode::MyType' to 'int', possible loss of data
+C:\Users\Erics\Desktop\Spring 2021\CSci 115\BinarySearchTrees\MyTreeNodeTester\MyTreeNode.cpp(277,25): warning C4244: 'argument': conversion from 'MyTreeNode::MyType' to 'int', possible loss of data
+C:\Users\Erics\Desktop\Spring 2021\CSci 115\BinarySearchTrees\MyTreeNodeTester\MyTreeNode.cpp(292,25): warning C4244: 'argument': conversion from 'MyTreeNode::MyType' to 'int', possible loss of data
+C:\Users\Erics\Desktop\Spring 2021\CSci 115\BinarySearchTrees\MyTreeNodeTester\MyTreeNode.cpp(314,29): warning C4244: 'argument': conversion from 'MyTreeNode::MyType' to 'int', possible loss of data
+C:\Users\Erics\Desktop\Spring 2021\CSci 115\BinarySearchTrees\MyTreeNodeTester\MyTreeNode.cpp(331,29): warning C4244: 'argument': conversion from 'MyTreeNode::MyType' to 'int', possible loss of data
+C:\Users\Erics\Desktop\Spring 2021\CSci 115\BinarySearchTrees\MyTreeNodeTester\MyTreeNode.cpp(347,25): warning C4244: 'argument': conversion from 'MyTreeNode::MyType' to 'int', possible loss of data
+C:\Users\Erics\Desktop\Spring 2021\CSci 115\BinarySearchTrees\MyTreeNodeTester\MyTreeNode.cpp(364,28): warning C4244: 'argument': conversion from 'MyTreeNode::MyType' to 'int', possible loss of data
+  MyTreeNodeTester.cpp
+  Generating Code...
+  MyTreeNodeTester.vcxproj -> C:\Users\Erics\Desktop\Spring 2021\CSci 115\BinarySearchTrees\MyTreeNodeTester\x64\Debug\MyTreeNodeTester.exe

@@ -1,0 +1,2 @@
+C:\Users\Erics\Documents\GitHub\CSCI_115_Spring_21\Labs\Lab4\Debug\Lab4.exe
+C:\Users\Erics\Documents\GitHub\CSCI_115_Spring_21\Labs\Lab4\Debug\Lab4.pdb

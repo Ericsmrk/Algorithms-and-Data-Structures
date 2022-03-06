@@ -1,0 +1,46 @@
+typedef std::ratio<1l, 1000000000000l> pico;
+   typedef duration<long long, pico> picoseconds;
+
+	auto start = high_resolution_clock::now();
+	output = factForLoop(20);
+	auto stop = high_resolution_clock::now();
+	cout << output;
+	auto duration = duration_cast<picoseconds>(stop - start);
+
+    cout << "Time taken by function: "
+         << duration.count() << " picoseconds" << endl;
+
+
+
+//////used to calculate in pico.....
+
+
+
+
+
+
+void hanoiTowerRecursive(int);						//Hanoi tower using recursion (calls helper)
+void hanoiTowerRec(int, string, string, string);//Helper function containing the recursion
+void hanoiTowerNonRecursive(int);					//Iterative Hanoi tower algorithm (calls helper)
+void hanoiTowerNonRec(int, string, string, string);//Helper function containing Hanoi algorithm
+
+
+for(int i = 1; i <= disks; i++){//initialize array for disk sizes
+		arr[i] = i;
+	}
+
+
+int arr[disks];	
+
+//make moves until out of moves
+	for(int i = 1; 1 <= totalMoves; i++){
+
+		if(disks == 1)
+			cout << "Move disk " << arr[1] << " from " << start << " to " << dest << "...";
+		else if(disks % 2 == 0){
+			cout << "even..total moves: " << totalMoves;
+		}
+		else{
+			cout << "odd..total moves: " << totalMoves;
+		}
+	}

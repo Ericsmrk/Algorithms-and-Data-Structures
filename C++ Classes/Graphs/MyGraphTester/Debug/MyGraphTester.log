@@ -1,0 +1,5 @@
+﻿  GraphAM.cpp
+C:\Users\Erics\Desktop\Spring 2021\CSci 115\Graphs\MyGraphTester\GraphAM.cpp(77,10): warning C4244: 'initializing': conversion from 'MyType' to 'int', possible loss of data
+C:\Users\Erics\Desktop\Spring 2021\CSci 115\Graphs\MyGraphTester\GraphAM.cpp(157): warning C4715: 'GraphAM::setColor': not all control paths return a value
+  LINK : C:\Users\Erics\Desktop\Spring 2021\CSci 115\Graphs\MyGraphTester\Debug\MyGraphTester.exe not found or not built by the last incremental link; performing full link
+  MyGraphTester.vcxproj -> C:\Users\Erics\Desktop\Spring 2021\CSci 115\Graphs\MyGraphTester\Debug\MyGraphTester.exe
